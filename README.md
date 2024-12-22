@@ -37,6 +37,10 @@ Para instalar las dependencias necesarias, sigue estos pasos:
 
 ## Docker:
 
+### Enlace a imagen del proyecto:
+
+    https://hub.docker.com/r/nahiely02/entregafinal-app
+
 ### Ejecución:    
 
 1. Construir la imagen de Docker:
